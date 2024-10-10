@@ -18,3 +18,13 @@ int main() {
    
    return 0;
 }
+
+
+/*OUTPUT
+/tmp/nR0OOzqJWv.o
+enter any number to be reversed: 426
+
+
+after reversing: 624
+
+=== Code Execution Successful ===
