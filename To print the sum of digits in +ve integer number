@@ -20,3 +20,13 @@ int main() {
    
    return 0;
 }
+
+
+/*OUTPUT
+/tmp/1gk2wzzMU9.o
+enter any number: 246
+
+
+ the sum of the digits in the entered number is : 12
+
+=== Code Execution Successful ===
