@@ -16,3 +16,17 @@ int main() {
   
    return 0;
 }
+
+
+/*OUTPUT
+/tmp/8ntarDE2sl.o
+enter any number to be reversed: 264\
+
+
+after reversing:
+ 
+4
+6
+2
+
+=== Code Execution Successful ===
